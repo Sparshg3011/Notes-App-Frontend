@@ -1,7 +1,5 @@
 # Notes-App-Frontend
-Here's a basic README template for a MERN stack project with front-end and back-end folders named `notes-backend` and `notes-frontend`, respectively:
 
----
 # Home Page
 <img width="1433" alt="Screenshot 2024-04-04 at 2 11 02 AM" src="https://github.com/Sparshg3011/Notes-App-Frontend/assets/90498262/497d5852-7b18-4ad0-9fad-1a946b36caa3">
 
